@@ -1,0 +1,4 @@
+baseURL = "https://yoonhyesu.github.io"
+languageCode = "en-us"
+title = "yoonhyesu"
+theme         = "BlogRa"
